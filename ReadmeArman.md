@@ -91,3 +91,60 @@
 15. `priority`
 
 16. `competition_type`
+
+
+### 2. MatchVenueInfo
+
+1. `match_id`
+    * **Numerical**
+    * Showing ID of the match and seems like all the tables relate to each other with this ID
+    
+2. `city`
+    * **Categorical**
+    * Showing City for each match. 
+    * This column has **38 Unique Values**
+
+3. `stadium`
+    * **Categorical**
+    * This column shows stadium name
+    * This column has **43 Unique Values**
+
+4. `venue_id`
+    * **Numerical**
+    * Showing ID of the venue
+
+5. `country`
+    * **Categorical**
+    * This column has **One** Missing Value
+
+
+### 3. MatchVenueInfo
+
+1. `match_id`
+    * **Numerical**
+    * Showing ID of the match and seems like all the tables relate to each other with this ID
+    
+2. `home_vote`
+    * **Numerical**
+    * This column shows count of home_votes
+    * This column has **38 Unique Values**
+    * Some of the information about this column:
+        * Mean : 136.298429
+        * Min : 0
+        * Max : 8133
+        * std : 591.036442
+        * Q1 : 2
+        * Q3 : 32
+
+3. `away_vote`
+    * **Numerical**
+    * This column shows count of away_votes
+    * This column has **43 Unique Values**
+    * Some of the information about this column:
+        * Mean : 130.712042
+        * Min : 0
+        * Max : 6851
+        * std : 521.944636
+        * Q1 : 2
+        * Q3 : 24
+
