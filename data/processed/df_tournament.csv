@@ -1,0 +1,765 @@
+match_id,tournament_id,tournament_name,tournament_slug,tournament_unique_id,tournament_category_name,tournament_category_slug,user_count,ground_type,tennis_points,has_event_player_statistics,crowd_sourcing_enabled,has_performance_graph_feature,display_inverse_home_away_teams,priority,competition_type
+11673958,121441,"Bogota, Colombia",bogota-colombia,,Challenger,challenger,125,Red clay,125,False,False,False,False,0,2
+11673962,121441,"Bogota, Colombia",bogota-colombia,,Challenger,challenger,125,Red clay,125,False,False,False,False,0,2
+11673963,121441,"Bogota, Colombia",bogota-colombia,,Challenger,challenger,125,Red clay,125,False,False,False,False,0,2
+11673993,121451,"Braga, Portugal",braga-portugal,,Challenger,challenger,163,Red clay,75,False,False,False,False,0,2
+11674000,121453,"Charleston, USA",charleston-usa,,Challenger,challenger,71,Hardcourt outdoor,75,False,False,False,False,0,2
+11674008,121453,"Charleston, USA",charleston-usa,,Challenger,challenger,71,Hardcourt outdoor,75,False,False,False,False,0,2
+11674011,121453,"Charleston, USA",charleston-usa,,Challenger,challenger,71,Hardcourt outdoor,75,False,False,False,False,0,2
+11674026,121456,"Orleans, France",orleans-france,,Challenger,challenger,181,Hardcourt indoor,125,False,False,False,False,0,2
+11674032,121456,"Orleans, France",orleans-france,,Challenger,challenger,181,Hardcourt indoor,125,False,False,False,False,0,2
+11674034,121456,"Orleans, France",orleans-france,,Challenger,challenger,181,Hardcourt indoor,125,False,False,False,False,0,2
+11674074,121466,"Tokyo, Japan",tokyo-japan,,WTA,wta,789,Hardcourt outdoor,500,False,False,False,False,0,2
+11674103,121475,"Astana, Kazakhstan",astana-kazakhstan,,ATP,atp,1290,Hardcourt indoor,250,False,False,False,False,0,2
+11674105,121475,"Astana, Kazakhstan",astana-kazakhstan,,ATP,atp,1290,Hardcourt indoor,250,False,False,False,False,0,2
+11674110,121475,"Astana, Kazakhstan",astana-kazakhstan,,ATP,atp,1290,Hardcourt indoor,250,False,False,False,False,0,2
+11674111,121475,"Astana, Kazakhstan",astana-kazakhstan,,ATP,atp,1290,Hardcourt indoor,250,False,False,False,False,0,2
+11674112,121475,"Astana, Kazakhstan",astana-kazakhstan,,ATP,atp,1290,Hardcourt indoor,250,False,False,False,False,0,2
+11674113,121475,"Astana, Kazakhstan",astana-kazakhstan,,ATP,atp,1290,Hardcourt indoor,250,False,False,False,False,0,2
+11674114,121475,"Astana, Kazakhstan",astana-kazakhstan,,ATP,atp,1290,Hardcourt indoor,250,False,False,False,False,0,2
+11675440,121516,"Beijing, China",beijing-china,,ATP,atp,2423,Hardcourt outdoor,500,False,False,False,False,0,2
+11675443,121516,"Beijing, China",beijing-china,,ATP,atp,2423,Hardcourt outdoor,500,False,False,False,False,0,2
+11675444,121516,"Beijing, China",beijing-china,,ATP,atp,2423,Hardcourt outdoor,500,False,False,False,False,0,2
+11675445,121516,"Beijing, China",beijing-china,,ATP,atp,2423,Hardcourt outdoor,500,False,False,False,False,0,2
+11675446,121516,"Beijing, China",beijing-china,,ATP,atp,2423,Hardcourt outdoor,500,False,False,False,False,0,2
+11675447,121516,"Beijing, China",beijing-china,,ATP,atp,2423,Hardcourt outdoor,500,False,False,False,False,0,2
+11675448,121516,"Beijing, China",beijing-china,,ATP,atp,2423,Hardcourt outdoor,500,False,False,False,False,0,2
+11675449,121516,"Beijing, China",beijing-china,,ATP,atp,2423,Hardcourt outdoor,500,False,False,False,False,0,2
+11675450,121516,"Beijing, China",beijing-china,,ATP,atp,2423,Hardcourt outdoor,500,False,False,False,False,0,2
+11686269,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11686272,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11686275,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11686276,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11686281,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11688311,121741,"Albuquerque, NM, Singles Main, M-ITF-USA-35A",albuquerque-nm-singles-main-m-itf-usa-35a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11696863,121682,"Forbach, Singles Main, M-ITF-FRA-19A",forbach-singles-main-m-itf-fra-19a,,ITF Men,itf-men,8,Carpet indoor,,False,False,False,False,0,2
+11697105,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697107,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697108,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697110,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697112,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697113,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697117,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697118,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697119,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697120,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697121,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697122,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697123,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697124,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697126,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11697152,121719,"Hilton Head, SC, Singles Main, W-ITF-USA-43A",hilton-head-sc-singles-main-w-itf-usa-43a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11697216,121682,"Forbach, Singles Main, M-ITF-FRA-19A",forbach-singles-main-m-itf-fra-19a,,ITF Men,itf-men,8,Carpet indoor,,False,False,False,False,0,2
+11697223,121719,"Hilton Head, SC, Singles Main, W-ITF-USA-43A",hilton-head-sc-singles-main-w-itf-usa-43a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11697237,121723,"Lujan, Singles Main, M-ITF-ARG-07A",lujan-singles-main-m-itf-arg-07a,,ITF Men,itf-men,22,Red clay,,False,False,False,False,0,2
+11697262,121724,"Lujan, Singles Main, W-ITF-ARG-09A",lujan-singles-main-w-itf-arg-09a,,ITF Women,itf-women,14,Red clay,,False,False,False,False,0,2
+11697278,121741,"Albuquerque, NM, Singles Main, M-ITF-USA-35A",albuquerque-nm-singles-main-m-itf-usa-35a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11697304,121723,"Lujan, Singles Main, M-ITF-ARG-07A",lujan-singles-main-m-itf-arg-07a,,ITF Men,itf-men,22,Red clay,,False,False,False,False,0,2
+11697306,121741,"Albuquerque, NM, Singles Main, M-ITF-USA-35A",albuquerque-nm-singles-main-m-itf-usa-35a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11697309,121724,"Lujan, Singles Main, W-ITF-ARG-09A",lujan-singles-main-w-itf-arg-09a,,ITF Women,itf-women,14,Red clay,,False,False,False,False,0,2
+11697316,121746,"Templeton, CA, Singles Main, W-ITF-USA-42A",templeton-ca-singles-main-w-itf-usa-42a,,ITF Women,itf-women,24,Hardcourt outdoor,,False,False,False,False,0,2
+11698042,121746,"Templeton, CA, Singles Main, W-ITF-USA-42A",templeton-ca-singles-main-w-itf-usa-42a,,ITF Women,itf-women,24,Hardcourt outdoor,,False,False,False,False,0,2
+11698055,121632,"Nanao, Singles Main, W-ITF-JPN-21A",nanao-singles-main-w-itf-jpn-21a,,ITF Women,itf-women,8,,,False,False,False,False,0,2
+11698354,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698355,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698356,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698357,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698358,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698359,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11698360,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698361,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11698362,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698363,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698364,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698365,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11698366,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698367,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698368,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11698369,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11698370,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698371,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11698372,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11698373,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698374,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698375,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698376,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11698377,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11698378,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11698379,121737,"Sharm ElSheikh, Singles Main, M-ITF-EGY-15A",sharm-elsheikh-singles-main-m-itf-egy-15a,,ITF Men,itf-men,13,Hardcourt outdoor,,False,False,False,False,0,2
+11698395,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11698397,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11698398,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11698399,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11698400,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11698401,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11698402,121644,"Beijing, China",beijing-china,,WTA,wta,1240,Hardcourt outdoor,1000,False,False,False,False,0,2
+11698403,121764,"Sharm ElSheikh, Singles Main, W-ITF-EGY-14A",sharm-elsheikh-singles-main-w-itf-egy-14a,,ITF Women,itf-women,7,Hardcourt outdoor,,False,False,False,False,0,2
+11698476,121691,"Sabadell, Singles Main, M-ITF-ESP-30A",sabadell-singles-main-m-itf-esp-30a,,ITF Men,itf-men,14,Red clay,,False,False,False,False,0,2
+11698477,121696,"Monastir, Singles Main, W-ITF-TUN-41A",monastir-singles-main-w-itf-tun-41a,,ITF Women,itf-women,13,Hardcourt outdoor,,False,False,False,False,0,2
+11698544,121711,"Pazardzhik, Singles Main, M-ITF-BUL-01B",pazardzhik-singles-main-m-itf-bul-01b,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11698550,121743,"Zlatibor, Singles Main, M-ITF-SRB-19A",zlatibor-singles-main-m-itf-srb-19a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698683,121699,"Monastir, Singles Main, M-ITF-TUN-43A",monastir-singles-main-m-itf-tun-43a,,ITF Men,itf-men,6,Hardcourt outdoor,,False,False,False,False,0,2
+11698735,121708,"S. Margherita Di Pula, Singles Main, W-ITF-ITA-16A",s-margherita-di-pula-singles-main-w-itf-ita-16a,,ITF Women,itf-women,19,Synthetic outdoor,,False,False,False,False,0,2
+11698749,121716,"Kursumlijska Banja, Singles Main, W-ITF-SRB-17A",kursumlijska-banja-singles-main-w-itf-srb-17a,,ITF Women,itf-women,14,Red clay,,False,False,False,False,0,2
+11698757,121694,"Santarem, Singles Main, W-ITF-POR-15A",santarem-singles-main-w-itf-por-15a,,ITF Women,itf-women,21,Hardcourt outdoor,,False,False,False,False,0,2
+11698861,121682,"Forbach, Singles Main, M-ITF-FRA-19A",forbach-singles-main-m-itf-fra-19a,,ITF Men,itf-men,8,Carpet indoor,,False,False,False,False,0,2
+11698870,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698871,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698872,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698873,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698874,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698875,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698876,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698877,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698878,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698879,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698880,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698881,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698882,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698883,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698884,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698885,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11698931,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698932,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698933,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698934,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698935,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698936,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698937,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698938,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698939,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698940,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698941,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698942,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698943,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698944,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698945,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698946,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11698947,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11698949,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698950,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698951,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698952,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698953,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698954,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698955,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698956,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698957,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698958,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698959,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698960,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698961,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698962,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698963,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698964,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698965,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698966,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698967,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698968,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698969,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698970,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698971,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698972,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698973,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698974,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698975,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698976,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698977,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698978,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698979,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698980,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11698984,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11698985,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11698986,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11698987,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11698988,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11698989,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11698990,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11698991,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11698992,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11698993,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11698994,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11698995,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11698996,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11698997,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11698998,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11698999,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11699000,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11699001,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11699002,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11699003,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11699004,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11699005,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11699006,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11699007,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11699008,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11699009,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11699010,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11699011,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11699012,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11699013,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11699014,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11699015,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11699035,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699036,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699037,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699038,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699039,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699040,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699041,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699042,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699043,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699044,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699045,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699046,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699047,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699048,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699049,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699050,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699051,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699052,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699053,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699054,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699055,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699056,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699057,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699058,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699059,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11699062,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699063,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699064,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699065,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699067,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699068,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699069,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699070,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699071,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699072,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699073,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699074,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699083,121669,"Alicante, Spain",alicante-spain,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699084,121669,"Alicante, Spain",alicante-spain,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11699097,121724,"Lujan, Singles Main, W-ITF-ARG-09A",lujan-singles-main-w-itf-arg-09a,,ITF Women,itf-women,14,Red clay,,False,False,False,False,0,2
+11699098,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699099,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699100,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699101,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699102,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699103,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699104,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699105,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699106,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699107,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699108,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699109,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699110,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699111,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699112,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699113,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11699125,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699126,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699127,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699128,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699129,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699130,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699131,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699132,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699133,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699134,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699135,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699136,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699137,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699138,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699139,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699140,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699141,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699142,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699143,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699144,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699145,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699146,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699147,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699148,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699149,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699150,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11699151,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11699153,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699154,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699155,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699156,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699157,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699158,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699159,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699160,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699161,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699162,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699163,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699164,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699165,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699166,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699167,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699168,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11699173,121723,"Lujan, Singles Main, M-ITF-ARG-07A",lujan-singles-main-m-itf-arg-07a,,ITF Men,itf-men,22,Red clay,,False,False,False,False,0,2
+11699185,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699186,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699187,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699188,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699189,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699190,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699191,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699192,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699193,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699194,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699195,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699196,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699197,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699198,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699199,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699200,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699221,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699222,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699223,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699224,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699225,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699226,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699227,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699228,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699229,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699230,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699231,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699232,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699233,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699234,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699235,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699236,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699237,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699238,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699239,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699240,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699241,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699242,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699243,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699244,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699245,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699246,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699247,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699248,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699249,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699250,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699251,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699252,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699253,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699254,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699255,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699256,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699257,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699258,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699259,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699260,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699261,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699262,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699263,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699264,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699265,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699266,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699267,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699268,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11699269,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699270,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699271,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699272,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699296,121719,"Hilton Head, SC, Singles Main, W-ITF-USA-43A",hilton-head-sc-singles-main-w-itf-usa-43a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11699334,121677,"Lisbon, Portugal",lisbon-portugal,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11699341,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699342,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699343,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699344,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699345,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699346,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699347,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699348,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699349,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699350,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699351,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699352,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11699361,121741,"Albuquerque, NM, Singles Main, M-ITF-USA-35A",albuquerque-nm-singles-main-m-itf-usa-35a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11699386,121746,"Templeton, CA, Singles Main, W-ITF-USA-42A",templeton-ca-singles-main-w-itf-usa-42a,,ITF Women,itf-women,24,Hardcourt outdoor,,False,False,False,False,0,2
+11699387,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699388,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699389,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699390,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699391,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699392,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699393,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699394,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699395,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699396,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699397,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699398,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11699416,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699417,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699418,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699419,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699420,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699421,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699422,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699423,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699424,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699425,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699426,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699427,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699428,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699429,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699430,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699431,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699432,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699433,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699434,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699435,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699436,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699437,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699438,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699439,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699440,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699441,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699442,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699443,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699444,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699445,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699446,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699447,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699448,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699449,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699450,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699451,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699452,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699453,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699454,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699455,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699456,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699457,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699458,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699459,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699460,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699461,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699462,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699463,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699464,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699465,121874,"Mendoza, Singles Qualifying, W-ITF-ARG-10A",mendoza-singles-qualifying-w-itf-arg-10a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11699466,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11699809,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699812,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699813,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699814,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699815,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699816,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699817,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699818,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699819,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699820,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699821,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11699822,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11700010,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700011,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700012,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700013,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700014,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700015,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700016,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700017,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700018,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700019,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700020,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700021,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700022,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700023,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700024,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700025,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700026,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700027,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700028,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700029,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700030,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700031,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700032,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700033,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700034,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700035,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700036,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700037,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700038,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700039,121841,"North Cairns, Singles Qualifying, W-ITF-AUS-12A",north-cairns-singles-qualifying-w-itf-aus-12a,,ITF Women,itf-women,8,Hardcourt outdoor,,False,False,False,False,0,2
+11700040,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700041,121840,"North Cairns, Singles Qualifying, M-ITF-AUS-10A",north-cairns-singles-qualifying-m-itf-aus-10a,,ITF Men,itf-men,11,Hardcourt outdoor,,False,False,False,False,0,2
+11700066,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701137,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701138,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701139,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701140,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701141,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701142,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701143,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701144,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701145,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701146,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701147,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701148,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701149,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701150,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701151,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701152,121846,"Sharm ElSheikh, Singles Qualifying, W-ITF-EGY-15A",sharm-elsheikh-singles-qualifying-w-itf-egy-15a,,ITF Women,itf-women,10,Hardcourt outdoor,,False,False,False,False,0,2
+11701154,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701155,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11701233,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11701265,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701266,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701267,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701268,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701269,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701270,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701271,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701272,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701273,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701274,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701275,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701276,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701277,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701278,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701279,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701280,121887,"Makinohara, Singles Qualifying, W-ITF-JPN-22A",makinohara-singles-qualifying-w-itf-jpn-22a,,ITF Women,itf-women,7,,,False,False,False,False,0,2
+11701281,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701298,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11701327,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701328,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701329,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11701330,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701331,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701333,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701334,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701335,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701336,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701337,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701338,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701339,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701340,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701341,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701342,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701343,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701344,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701345,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701346,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701347,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701348,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701349,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701350,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701351,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701352,121891,"Shanghai, China, Qualifying",shanghai-china-qualifying,,ATP,atp,3627,Hardcourt outdoor,1000,False,False,False,False,0,2
+11701385,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11701386,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11701444,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11701471,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11701472,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11701473,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11701486,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701487,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701490,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701491,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701492,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701493,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701494,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701495,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701496,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701497,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701499,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701509,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11701521,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701522,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701523,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701524,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701525,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701526,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701527,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701528,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701529,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701530,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701531,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701532,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701533,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11701534,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11701535,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11701536,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701537,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701538,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701539,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701540,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701541,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701542,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701543,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701544,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701555,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11701556,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11701557,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11701558,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11701559,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11701561,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11701562,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701563,119387,"Osijek, Singles Qualifying, W-ITF-CRO-01B",osijek-singles-qualifying-w-itf-cro-01b,,ITF Women,itf-women,6,Red clay,,False,False,False,False,0,2
+11701565,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701605,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11701606,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701607,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701608,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701609,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701610,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701611,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701612,121893,"S. Margherita Di Pula, Singles, M-ITF-ITA-27A",s-margherita-di-pula-singles-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701613,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701614,121893,"S. Margherita Di Pula, Singles, M-ITF-ITA-27A",s-margherita-di-pula-singles-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701615,121893,"S. Margherita Di Pula, Singles, M-ITF-ITA-27A",s-margherita-di-pula-singles-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701616,121893,"S. Margherita Di Pula, Singles, M-ITF-ITA-27A",s-margherita-di-pula-singles-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701617,121844,"S. Margherita Di Pula, Singles Q, M-ITF-ITA-27A",s-margherita-di-pula-singles-q-m-itf-ita-27a,,ITF Men,itf-men,2,Red clay,,False,False,False,False,0,2
+11701626,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701627,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701631,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11701632,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11701633,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11701634,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11701635,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11701640,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11701643,121894,"Doha, Singles Qualifying, M-ITF-QAT-03A",doha-singles-qualifying-m-itf-qat-03a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701645,121894,"Doha, Singles Qualifying, M-ITF-QAT-03A",doha-singles-qualifying-m-itf-qat-03a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701646,121894,"Doha, Singles Qualifying, M-ITF-QAT-03A",doha-singles-qualifying-m-itf-qat-03a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701648,121894,"Doha, Singles Qualifying, M-ITF-QAT-03A",doha-singles-qualifying-m-itf-qat-03a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701651,121894,"Doha, Singles Qualifying, M-ITF-QAT-03A",doha-singles-qualifying-m-itf-qat-03a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701653,121894,"Doha, Singles Qualifying, M-ITF-QAT-03A",doha-singles-qualifying-m-itf-qat-03a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701655,121894,"Doha, Singles Qualifying, M-ITF-QAT-03A",doha-singles-qualifying-m-itf-qat-03a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701656,121894,"Doha, Singles Qualifying, M-ITF-QAT-03A",doha-singles-qualifying-m-itf-qat-03a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701661,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11701662,121859,"Baza, Singles Qualifying, W-ITF-ESP-35A",baza-singles-qualifying-w-itf-esp-35a,,ITF Women,itf-women,14,Hardcourt outdoor,,False,False,False,False,0,2
+11701666,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11701667,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11701668,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11701680,121896,"S. Margherita Di Pula, Singles Qual, W-ITF-ITA-22A",s-margherita-di-pula-singles-qual-w-itf-ita-22a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11701681,121896,"S. Margherita Di Pula, Singles Qual, W-ITF-ITA-22A",s-margherita-di-pula-singles-qual-w-itf-ita-22a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11701682,121896,"S. Margherita Di Pula, Singles Qual, W-ITF-ITA-22A",s-margherita-di-pula-singles-qual-w-itf-ita-22a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11701683,121896,"S. Margherita Di Pula, Singles Qual, W-ITF-ITA-22A",s-margherita-di-pula-singles-qual-w-itf-ita-22a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11701684,121896,"S. Margherita Di Pula, Singles Qual, W-ITF-ITA-22A",s-margherita-di-pula-singles-qual-w-itf-ita-22a,,ITF Women,itf-women,12,Red clay,,False,False,False,False,0,2
+11701689,121855,"Alicante, Spain, Qualifying",alicante-spain-qualifying,,Challenger,challenger,136,Hardcourt outdoor,100,False,False,False,False,0,2
+11701697,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11701698,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11701699,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11701700,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11701701,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11701702,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11701703,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11701704,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11701705,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11701706,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11701707,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11701708,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11701709,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11701710,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11701711,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11701712,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11701713,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11701714,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11701715,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11701716,121853,"Bad Waltersdorf, Singles Qualifying, M-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-m-itf-aut-09a,,ITF Men,itf-men,5,Red clay,,False,False,False,False,0,2
+11701717,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701718,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701719,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701720,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701721,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701722,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701723,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701724,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701725,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701726,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701727,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701728,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701729,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701730,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701731,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701732,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701733,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701734,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701735,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701736,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701737,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701738,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701739,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701740,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701741,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701742,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701743,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701744,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701745,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701746,121870,"Monastir, Singles Qualifying, W-ITF-TUN-42A",monastir-singles-qualifying-w-itf-tun-42a,,ITF Women,itf-women,12,Hardcourt outdoor,,False,False,False,False,0,2
+11701747,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701748,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11701749,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11701752,121872,"Campinas, Brazil, Qualifying",campinas-brazil-qualifying,,Challenger,challenger,209,Red clay,100,False,False,False,False,0,2
+11701761,121882,"Tiburon, USA, Qualifying",tiburon-usa-qualifying,,Challenger,challenger,82,Hardcourt outdoor,75,False,False,False,False,0,2
+11701779,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701780,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11701781,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11701782,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701783,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11701784,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11701785,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701786,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11701787,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11701788,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11701839,121866,"Lisbon, Portugal, Qualifying",lisbon-portugal-qualifying,,Challenger,challenger,99,Red clay,75,False,False,False,False,0,2
+11701840,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11701841,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11701842,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11701843,121863,"Lisbon, Singles Qualifying, W-ITF-POR-13A",lisbon-singles-qualifying-w-itf-por-13a,,ITF Women,itf-women,18,Red clay,,False,False,False,False,0,2
+11701877,121856,"Nevers, Singles Qualifying, M-ITF-FRA-18A",nevers-singles-qualifying-m-itf-fra-18a,,ITF Men,itf-men,10,Hardcourt indoor,,False,False,False,False,0,2
+11701917,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701918,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701919,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701920,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701921,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701922,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701923,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701924,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11701925,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701926,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701927,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701928,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701929,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701930,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701931,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701932,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11701933,121858,"Zaragoza, Singles Qualifying, M-ITF-ESP-35A",zaragoza-singles-qualifying-m-itf-esp-35a,,ITF Men,itf-men,7,Red clay,,False,False,False,False,0,2
+11701934,121847,"Sharm ElSheikh, Singles Qualifying, M-ITF-EGY-16A",sharm-elsheikh-singles-qualifying-m-itf-egy-16a,,ITF Men,itf-men,9,Hardcourt outdoor,,False,False,False,False,0,2
+11702042,121871,"Mouilleron-Le-Captif, France, Qualifying",mouilleron-le-captif-france-qualifying,,Challenger,challenger,143,Hardcourt indoor,100,False,False,False,False,0,2
+11702214,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702216,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702217,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702218,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702220,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702221,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702222,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702224,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702225,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702230,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702232,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702238,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702241,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702242,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702243,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702244,121877,"Mendoza, Singles Qualifying, M-ITF-ARG-08A",mendoza-singles-qualifying-m-itf-arg-08a,,ITF Men,itf-men,12,Red clay,,False,False,False,False,0,2
+11702248,121898,"Rome, Singles Qualifying, W-ITF-USA-53A",rome-singles-qualifying-w-itf-usa-53a,,ITF Women,itf-women,9,Hardcourt indoor,,False,False,False,False,0,2
+11703221,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11703236,121850,"Bad Waltersdorf, Singles Qualifying, W-ITF-AUT-09A",bad-waltersdorf-singles-qualifying-w-itf-aut-09a,,ITF Women,itf-women,11,Red clay,,False,False,False,False,0,2
+11703242,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11703331,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2
+11703442,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11703443,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11703444,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11703445,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11703470,121860,"Reims, Singles Qualifying, W-ITF-FRA-20A",reims-singles-qualifying-w-itf-fra-20a,,ITF Women,itf-women,19,Hardcourt indoor,,False,False,False,False,0,2
+11703524,121868,"Monastir, Singles Qualifying, M-ITF-TUN-46A",monastir-singles-qualifying-m-itf-tun-46a,,ITF Men,itf-men,7,Hardcourt outdoor,,False,False,False,False,0,2
+11703525,121843,"Pazardzhik, Singles Qualifying, M-ITF-BUL-05A",pazardzhik-singles-qualifying-m-itf-bul-05a,,ITF Men,itf-men,4,Red clay,,False,False,False,False,0,2

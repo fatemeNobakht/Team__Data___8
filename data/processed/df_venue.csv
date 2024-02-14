@@ -1,0 +1,764 @@
+match_id,city,stadium,venue_id,country
+11673958,Bogota,Cancha Central,18338,Colombia
+11673962,Bogota,Cancha Central,18338,Colombia
+11673963,Bogota,Cancha Central,18338,Colombia
+11673993,Braga,Court Central,21510,Portugal
+11674000,Charleston,Center Court,32522,USA
+11674008,Charleston,Center Court,32522,USA
+11674011,Charleston,Center Court,32522,USA
+11674026,Orleans,Central Arena,41846,France
+11674032,Orleans,Central Arena,41846,France
+11674034,Orleans,Central Arena,41846,France
+11674074,Tokyo,Centre Court,18427,Japan
+11674103,Astana,Center Court,41863,Kazakhstan
+11674105,Astana,Center Court,41863,Kazakhstan
+11674110,Astana,Center Court,41863,Kazakhstan
+11674111,Astana,Center Court,41863,Kazakhstan
+11674112,Astana,Center Court,41863,Kazakhstan
+11674113,Astana,Center Court,41863,Kazakhstan
+11674114,Astana,Center Court,41863,Kazakhstan
+11675440,Beijing,Diamond Court,26769,China
+11675443,Beijing,Diamond Court,26769,China
+11675444,Beijing,Diamond Court,26769,China
+11675445,Beijing,Diamond Court,26769,China
+11675446,Beijing,Diamond Court,26769,China
+11675447,Beijing,LOTUS COURT,2102,China
+11675448,Beijing,LOTUS COURT,2102,China
+11675449,Beijing,Diamond Court,26769,China
+11675450,Beijing,LOTUS COURT,2102,China
+11686269,Beijing,Court 2,26764,China
+11686272,Beijing,Moon Court,18513,China
+11686275,Beijing,Court 2,26764,China
+11686276,Beijing,LOTUS COURT,2102,China
+11686281,Beijing,Moon Court,18513,China
+11696863,Forbach,Court 1,18542,France
+11697105,Beijing,Diamond Court,26769,China
+11697107,Beijing,Diamond Court,26769,China
+11697108,Beijing,LOTUS COURT,2102,China
+11697110,Beijing,Diamond Court,26769,China
+11697112,Beijing,Brad Drewett Court,18630,China
+11697113,Beijing,Diamond Court,26769,China
+11697117,Beijing,Moon Court,18513,China
+11697118,Beijing,Brad Drewett Court,18630,China
+11697119,Beijing,Moon Court,18513,China
+11697120,Beijing,Brad Drewett Court,18630,China
+11697121,Beijing,LOTUS COURT,2102,China
+11697122,Beijing,Diamond Court,26769,China
+11697123,Beijing,Diamond Court,26769,China
+11697124,Beijing,Brad Drewett Court,18630,China
+11697126,Beijing,LOTUS COURT,2102,China
+11697152,Hilton Head,Court 12,41872,USA
+11697216,Forbach,Court 1,18542,France
+11697223,Hilton Head,Court 12,41872,USA
+11697237,Lujan,Court 2,37274,Argentina
+11697262,Lujan,Court 2,37274,Argentina
+11697278,Albuquerque,Court 3,41899,USA
+11697304,Lujan,Court 4,37271,Argentina
+11697306,Albuquerque,Court 3,41899,USA
+11697309,Lujan,Court 4,37271,Argentina
+11697316,Templeton,Stadium,18556,USA
+11698042,Templeton,Stadium,18556,USA
+11698055,Nanao,Court 4,41901,Japan
+11698354,Cairns,Court 12,18710,Australia
+11698355,Cairns,Court 10,18713,Australia
+11698356,Cairns,Court 12,18710,Australia
+11698357,Cairns,Court 10,18713,Australia
+11698358,Cairns,Court 10,18713,Australia
+11698359,Cairns,Court 2,18711,Australia
+11698360,Cairns,Court 1,18712,Australia
+11698361,Cairns,Court 4,18707,Australia
+11698362,Cairns,Court 3,18709,Australia
+11698363,Cairns,Court 1,18712,Australia
+11698364,Cairns,Court 1,18712,Australia
+11698365,Cairns,Court 4,18707,Australia
+11698366,Cairns,Court 3,18709,Australia
+11698367,Cairns,Court 3,18709,Australia
+11698368,Cairns,Court 8,36645,Australia
+11698369,Cairns,Court 4,18707,Australia
+11698370,Cairns,Court 12,18710,Australia
+11698371,Cairns,Court 8,36645,Australia
+11698372,Cairns,Court 2,18711,Australia
+11698373,Cairns,Court 11,18706,Australia
+11698374,Cairns,Court 8,36645,Australia
+11698375,Cairns,Court 11,18706,Australia
+11698376,Cairns,Court 11,18706,Australia
+11698377,Cairns,Court 2,18711,Australia
+11698378,Cairns,Court 4,18707,Australia
+11698379,Sharm El Sheikh,Court 3,17612,Egypt
+11698395,Beijing,Moon Court,18513,China
+11698397,Beijing,LOTUS COURT,2102,China
+11698398,Beijing,Moon Court,18513,China
+11698399,Beijing,LOTUS COURT,2102,China
+11698400,Beijing,Brad Drewett Court,18630,China
+11698401,Beijing,Brad Drewett Court,18630,China
+11698402,Beijing,Moon Court,18513,China
+11698403,Sharm El Sheikh,Court 3,17612,Egypt
+11698476,Sabadell,Court 5,18633,Spain
+11698477,Monastir,Court 2,23360,Tunisia
+11698544,Pazardzhik,Court 3,30758,Bulgaria
+11698550,Zlatibor,Court 2,18115,Serbia
+11698683,Monastir,Court 1,23881,Tunisia
+11698735,Santa Margherita Di Pula,Court 4,34380,Italy
+11698749,Kursumlijska Banja,COURT VIKTOR TROICKI,39706,Serbia
+11698757,Santarem,Court 1,23358,Portugal
+11698861,Forbach,Court 1,18542,France
+11698870,Pazardzhik,Court 1,30759,Bulgaria
+11698871,Pazardzhik,Court 2,30760,Bulgaria
+11698872,Pazardzhik,Court 5,39394,Bulgaria
+11698873,Pazardzhik,Court 1,30759,Bulgaria
+11698874,Pazardzhik,Court 1,30759,Bulgaria
+11698875,Pazardzhik,Court 4,30757,Bulgaria
+11698876,Pazardzhik,Court 2,30760,Bulgaria
+11698877,Pazardzhik,Court 5,39394,Bulgaria
+11698878,Pazardzhik,Court 3,30758,Bulgaria
+11698879,Pazardzhik,Court 4,30757,Bulgaria
+11698880,Pazardzhik,Court 1,30759,Bulgaria
+11698881,Pazardzhik,Court 3,30758,Bulgaria
+11698882,Pazardzhik,Court 4,30757,Bulgaria
+11698883,Pazardzhik,Court 4,30757,Bulgaria
+11698884,Pazardzhik,Court 5,39394,Bulgaria
+11698885,Pazardzhik,Court 5,39394,Bulgaria
+11698931,Santa Margherita Di Pula,Court 2,34383,Italy
+11698932,Santa Margherita Di Pula,Court 2,34383,Italy
+11698933,Santa Margherita Di Pula,Court 3,34379,Italy
+11698934,Santa Margherita Di Pula,Court 3,34379,Italy
+11698935,Santa Margherita Di Pula,Court 4,34380,Italy
+11698936,Santa Margherita Di Pula,Court 8,34403,Italy
+11698937,Santa Margherita Di Pula,Court 8,34403,Italy
+11698938,Santa Margherita Di Pula,Court 5,34382,Italy
+11698939,Santa Margherita Di Pula,Court 6,34381,Italy
+11698940,Santa Margherita Di Pula,Court 7,34378,Italy
+11698941,Santa Margherita Di Pula,Court 6,34381,Italy
+11698942,Santa Margherita Di Pula,Court 1,34474,Italy
+11698943,Santa Margherita Di Pula,Court 1,34474,Italy
+11698944,Santa Margherita Di Pula,Court 5,34382,Italy
+11698945,Santa Margherita Di Pula,Court 6,34381,Italy
+11698946,Santa Margherita Di Pula,Court 7,34378,Italy
+11698947,Sharm El Sheikh,Court 4,28799,Egypt
+11698949,Sharm El Sheikh,Court 6,33930,Egypt
+11698950,Sharm El Sheikh,Court 4,28799,Egypt
+11698951,Sharm El Sheikh,Court 5,33931,Egypt
+11698952,Sharm El Sheikh,Center Court,33963,Egypt
+11698953,Sharm El Sheikh,Court 5,33931,Egypt
+11698954,Sharm El Sheikh,Court 5,33931,Egypt
+11698955,Sharm El Sheikh,Court 4,28799,Egypt
+11698956,Sharm El Sheikh,Court 4,28799,Egypt
+11698957,Sharm El Sheikh,Court 3,17612,Egypt
+11698958,Sharm El Sheikh,Court 3,17612,Egypt
+11698959,Sharm El Sheikh,Center Court,33963,Egypt
+11698960,Sharm El Sheikh,Court 6,33930,Egypt
+11698961,Sharm El Sheikh,Court 6,33930,Egypt
+11698962,Sharm El Sheikh,Court 6,33930,Egypt
+11698963,Sharm El Sheikh,Court 5,33931,Egypt
+11698964,Sharm El Sheikh,Court 6,33930,Egypt
+11698965,Sharm El Sheikh,Court 3,17612,Egypt
+11698966,Sharm El Sheikh,Court 3,17612,Egypt
+11698967,Sharm El Sheikh,Court 4,28799,Egypt
+11698968,Sharm El Sheikh,Court 6,33930,Egypt
+11698969,Sharm El Sheikh,Court 5,33931,Egypt
+11698970,Sharm El Sheikh,Court 3,17612,Egypt
+11698971,Sharm El Sheikh,Center Court,33963,Egypt
+11698972,Sharm El Sheikh,Court 4,28799,Egypt
+11698973,Sharm El Sheikh,Center Court,33963,Egypt
+11698974,Sharm El Sheikh,Court 5,33931,Egypt
+11698975,Sharm El Sheikh,Center Court,33963,Egypt
+11698976,Sharm El Sheikh,Court 4,28799,Egypt
+11698977,Sharm El Sheikh,Court 4,28799,Egypt
+11698978,Sharm El Sheikh,Center Court,33963,Egypt
+11698979,Sharm El Sheikh,Court 3,17612,Egypt
+11698980,Sharm El Sheikh,Court 5,33931,Egypt
+11698984,Bad Waltersdorf,Court 1,32759,Austria
+11698985,Bad Waltersdorf,Court 6,32758,Austria
+11698986,Bad Waltersdorf,Court 1,32759,Austria
+11698987,Bad Waltersdorf,Court 5,32760,Austria
+11698988,Bad Waltersdorf,Court 8,32765,Austria
+11698989,Bad Waltersdorf,Court 3,32762,Austria
+11698990,Bad Waltersdorf,Court 2,32764,Austria
+11698991,Bad Waltersdorf,Court 6,32758,Austria
+11698992,Bad Waltersdorf,Court 6,32758,Austria
+11698993,Bad Waltersdorf,Court 8,32765,Austria
+11698994,Bad Waltersdorf,Court 2,32764,Austria
+11698995,Bad Waltersdorf,Court 6,32758,Austria
+11698996,Bad Waltersdorf,Court 5,32760,Austria
+11698997,Bad Waltersdorf,Court 4,32763,Austria
+11698998,Bad Waltersdorf,Court 1,32759,Austria
+11698999,Bad Waltersdorf,Court 3,32762,Austria
+11699000,Bad Waltersdorf,Court 5,32760,Austria
+11699001,Bad Waltersdorf,Court 5,32760,Austria
+11699002,Bad Waltersdorf,Court 4,32763,Austria
+11699003,Bad Waltersdorf,Court 5,32760,Austria
+11699004,Bad Waltersdorf,Court 2,32764,Austria
+11699005,Bad Waltersdorf,Court 8,32765,Austria
+11699006,Bad Waltersdorf,Court 2,32764,Austria
+11699007,Bad Waltersdorf,Court 3,32762,Austria
+11699008,Bad Waltersdorf,Court 3,32762,Austria
+11699009,Bad Waltersdorf,Court 3,32762,Austria
+11699010,Bad Waltersdorf,Court 4,32763,Austria
+11699011,Bad Waltersdorf,Court 2,32764,Austria
+11699012,Bad Waltersdorf,Court 3,32762,Austria
+11699013,Bad Waltersdorf,Court 6,32758,Austria
+11699014,Bad Waltersdorf,Court 8,32765,Austria
+11699015,Bad Waltersdorf,Court 6,32758,Austria
+11699035,Sibenik,Court 5,31890,Croatia
+11699036,Sibenik,Court 4,31893,Croatia
+11699037,Sibenik,Court 6,31892,Croatia
+11699038,Sibenik,Court 7,31888,Croatia
+11699039,Sibenik,Court 8,31891,Croatia
+11699040,Sibenik,Court 1,31889,Croatia
+11699041,Sibenik,Court 2,32113,Croatia
+11699042,Sibenik,Court 5,31890,Croatia
+11699043,Sibenik,Court 6,31892,Croatia
+11699044,Sibenik,Court 2,32113,Croatia
+11699045,Sibenik,Court 8,31891,Croatia
+11699046,Sibenik,Court 6,31892,Croatia
+11699047,Sibenik,Court 1,31889,Croatia
+11699048,Sibenik,Court 7,31888,Croatia
+11699049,Sibenik,Court 5,31890,Croatia
+11699050,Sibenik,Court 5,31890,Croatia
+11699051,Sibenik,Court 6,31892,Croatia
+11699052,Sibenik,Court 2,32113,Croatia
+11699053,Sibenik,Court 1,31889,Croatia
+11699054,Sibenik,Court 4,31893,Croatia
+11699055,Sibenik,Court 7,31888,Croatia
+11699056,Sibenik,Court 7,31888,Croatia
+11699057,Sibenik,Court 4,31893,Croatia
+11699058,Sibenik,Court 4,31893,Croatia
+11699059,Sibenik,Court 1,31889,Croatia
+11699062,Alicante,Pista 1,21045,Spain
+11699063,Alicante,Central,41861,Spain
+11699064,Alicante,Central,41861,Spain
+11699065,Alicante,Central,41861,Spain
+11699067,Alicante,Pista 1,21045,Spain
+11699068,Alicante,Pista 1,21045,Spain
+11699069,Alicante,Pista 1,21045,Spain
+11699070,Alicante,Central,41861,Spain
+11699071,Alicante,Pista 2,21044,Spain
+11699072,Alicante,Pista 2,21044,Spain
+11699073,Alicante,Pista 2,21044,Spain
+11699074,Alicante,Pista 2,21044,Spain
+11699083,Alicante,Central,41861,Spain
+11699084,Alicante,Pista 2,21044,Spain
+11699097,Lujan,Court 2,37274,Argentina
+11699098,Saint Eloi,Court 3,36552,France
+11699099,Saint Eloi,Court 1,36553,France
+11699100,Saint Eloi,Court 1,36553,France
+11699101,Saint Eloi,Court 3,36552,France
+11699102,Saint Eloi,Court 3,36552,France
+11699103,Saint Eloi,Court 1,36553,France
+11699104,Saint Eloi,Court 1,36553,France
+11699105,Saint Eloi,Court Central,36551,France
+11699106,Saint Eloi,Court 3,36552,France
+11699107,Saint Eloi,Court 1,36553,France
+11699108,Saint Eloi,Court Central,36551,France
+11699109,Saint Eloi,Court Central,36551,France
+11699110,Saint Eloi,Court Central,36551,France
+11699111,Saint Eloi,Court 1,36553,France
+11699112,Saint Eloi,Court 3,36552,France
+11699113,Saint Eloi,Court Central,36551,France
+11699125,Zaragoza,Court 3,36545,Spain
+11699126,Zaragoza,Court 2,36542,Spain
+11699127,Zaragoza,Court 1,41902,Spain
+11699128,Zaragoza,Court 2,36542,Spain
+11699129,Zaragoza,Court 3,36545,Spain
+11699130,Zaragoza,Court 4,36543,Spain
+11699131,Zaragoza,Court 3,36545,Spain
+11699132,Zaragoza,Court 1,41902,Spain
+11699133,Zaragoza,Court 3,36545,Spain
+11699134,Zaragoza,Court 2,36542,Spain
+11699135,Zaragoza,Court 2,36542,Spain
+11699136,Zaragoza,Court 2,36542,Spain
+11699137,Baza,Court 5,36538,Spain
+11699138,Baza,Court Occident (C),41905,Spain
+11699139,Baza,Court 4,36537,Spain
+11699140,Baza,Court 5,36538,Spain
+11699141,Baza,Court 4,36537,Spain
+11699142,Baza,Court 4,36537,Spain
+11699143,Baza,Court 5,36538,Spain
+11699144,Baza,Court 4,36537,Spain
+11699145,Zaragoza,Court 1,41902,Spain
+11699146,Baza,Court Occident (C),41905,Spain
+11699147,Baza,Court Occident (C),41905,Spain
+11699148,Zaragoza,Court 3,36545,Spain
+11699149,Zaragoza,Court 1,41902,Spain
+11699150,Zaragoza,Court 1,41902,Spain
+11699151,Baza,Court Occident (C),41905,Spain
+11699153,Reims,Court 4,36549,France
+11699154,Reims,Court 1,36548,France
+11699155,Reims,Court Central,41907,France
+11699156,Reims,Court 4,36549,France
+11699157,Reims,Court 1,36548,France
+11699158,Reims,Court 1,36548,France
+11699159,Reims,Court 4,36549,France
+11699160,Reims,Court 1,36548,France
+11699161,Reims,Court Central,41907,France
+11699162,Reims,Court 4,36549,France
+11699163,Reims,Court Central,41907,France
+11699164,Reims,Court Central,41907,France
+11699165,Reims,Court 1,36548,France
+11699166,Reims,Court Central,41907,France
+11699167,Reims,Court 4,36549,France
+11699168,Reims,Court Central,41907,France
+11699173,Lujan,Court 4,37271,Argentina
+11699185,Lisbon,Court 7,18585,Portugal
+11699186,Lisbon,Court 6,21002,Portugal
+11699187,Lisbon,Court 5,17212,Portugal
+11699188,Lisbon,Court 7,18585,Portugal
+11699189,Lisbon,Court 5,17212,Portugal
+11699190,Lisbon,Court 7,18585,Portugal
+11699191,Lisbon,Court 7,18585,Portugal
+11699192,Lisbon,Court 6,21002,Portugal
+11699193,Lisbon,Court 7,18585,Portugal
+11699194,Lisbon,Court 5,17212,Portugal
+11699195,Lisbon,Court 5,17212,Portugal
+11699196,Lisbon,Court 5,17212,Portugal
+11699197,Lisbon,Court 6,21002,Portugal
+11699198,Lisbon,Court 5,17212,Portugal
+11699199,Lisbon,Court 6,21002,Portugal
+11699200,Lisbon,Court 8,18583,Portugal
+11699221,Lisbon,Court Belem,17211,Portugal
+11699222,Lisbon,Court Lisboa,17210,Portugal
+11699223,Monastir,Court 5,23362,Tunisia
+11699224,Lisbon,Court Belem,17211,Portugal
+11699225,Monastir,Center Court,23654,Tunisia
+11699226,Lisbon,Court Lisboa,17210,Portugal
+11699227,Lisbon,Court Belem,17211,Portugal
+11699228,Lisbon,Estadio Cif,17209,Portugal
+11699229,Monastir,Court 7,23891,Tunisia
+11699230,Monastir,Court 2,23360,Tunisia
+11699231,Lisbon,Court Lisboa,17210,Portugal
+11699232,Monastir,Court 3,23363,Tunisia
+11699233,Monastir,Court 8,24180,Tunisia
+11699234,Monastir,Court 7,23891,Tunisia
+11699235,Lisbon,Estadio Cif,17209,Portugal
+11699236,Lisbon,Court Belem,17211,Portugal
+11699237,Monastir,Court 5,23362,Tunisia
+11699238,Monastir,Court 8,24180,Tunisia
+11699239,Monastir,Court 7,23891,Tunisia
+11699240,Monastir,Court 7,23891,Tunisia
+11699241,Lisbon,Estadio Cif,17209,Portugal
+11699242,Monastir,Court 4,23364,Tunisia
+11699243,Monastir,Court 4,23364,Tunisia
+11699244,Monastir,Court 5,23362,Tunisia
+11699245,Monastir,Court 3,23363,Tunisia
+11699246,Monastir,Court 5,23362,Tunisia
+11699247,Monastir,Court 6,23890,Tunisia
+11699248,Monastir,Court 6,23890,Tunisia
+11699249,Monastir,Court 8,24180,Tunisia
+11699250,Monastir,Court 7,23891,Tunisia
+11699251,Monastir,Court 3,23363,Tunisia
+11699252,Monastir,Court 6,23890,Tunisia
+11699253,Monastir,Court 1,23881,Tunisia
+11699254,Monastir,Court 6,23890,Tunisia
+11699255,Monastir,Court 7,23891,Tunisia
+11699256,Monastir,Court 4,23364,Tunisia
+11699257,Monastir,Court 4,23364,Tunisia
+11699258,Monastir,Center Court,23654,Tunisia
+11699259,Monastir,Court 8,24180,Tunisia
+11699260,Monastir,Court 6,23890,Tunisia
+11699261,Monastir,Court 7,23891,Tunisia
+11699262,Monastir,Center Court,23654,Tunisia
+11699263,Monastir,Court 3,23363,Tunisia
+11699264,Monastir,Court 1,23881,Tunisia
+11699265,Monastir,Court 3,23363,Tunisia
+11699266,Monastir,Court 8,24180,Tunisia
+11699267,Monastir,Court 2,23360,Tunisia
+11699268,Monastir,Center Court,23654,Tunisia
+11699269,Monastir,Court 2,23360,Tunisia
+11699270,Lisbon,Estadio Cif,17209,Portugal
+11699271,Lisbon,Court Lisboa,17210,Portugal
+11699272,Monastir,Court 4,23364,Tunisia
+11699296,Hilton Head,Court 12,41872,USA
+11699334,Lisbon,Court Lisboa,17210,Portugal
+11699341,Mouilleron-Le-Captif,Court Annexe,19285,France
+11699342,Mouilleron-Le-Captif,Court Central,19286,France
+11699343,Mouilleron-Le-Captif,Court Annexe,19285,France
+11699344,Mouilleron-Le-Captif,Court Central,19286,France
+11699345,Mouilleron-Le-Captif,Court Annexe,19285,France
+11699346,Mouilleron-Le-Captif,Court Central,19286,France
+11699347,Mouilleron-Le-Captif,Court Annexe,19285,France
+11699348,Mouilleron-Le-Captif,Court Annexe,19285,France
+11699349,Mouilleron-Le-Captif,Court Central,19286,France
+11699350,Mouilleron-Le-Captif,Court Central,19286,France
+11699351,Mouilleron-Le-Captif,Court Central,19286,France
+11699352,Mouilleron-Le-Captif,Court Annexe,19285,France
+11699361,Albuquerque,Court 3,41899,USA
+11699386,Templeton,Stadium,18556,USA
+11699387,Campinas,Court 3,18608,Brazil
+11699388,Campinas,Court Joao Lima,18610,Brazil
+11699389,Campinas,Court 4,18609,Brazil
+11699390,Campinas,Court 4,18609,Brazil
+11699391,Campinas,Court 3,18608,Brazil
+11699392,Campinas,Court 4,18609,Brazil
+11699393,Campinas,Court Joao Lima,18610,Brazil
+11699394,Campinas,Court 4,18609,Brazil
+11699395,Campinas,Court 3,18608,Brazil
+11699396,Campinas,Court Joao Lima,18610,Brazil
+11699397,Campinas,Court 3,18608,Brazil
+11699398,Campinas,Court Joao Lima,18610,Brazil
+11699416,Mendoza,Court 9,41909,Argentina
+11699417,Mendoza,Court 10,41910,Argentina
+11699418,Mendoza,Court 4,19867,Argentina
+11699419,Mendoza,Court 2,19872,Argentina
+11699420,Mendoza,Court 7,19868,Argentina
+11699421,Mendoza,Court 5,19870,Argentina
+11699422,Mendoza,Court 7,19868,Argentina
+11699423,Mendoza,Court 5,19870,Argentina
+11699424,Mendoza,Court 2 ANDINO,41912,Argentina
+11699425,Mendoza,Court 7,19868,Argentina
+11699426,Mendoza,Court 4,19867,Argentina
+11699427,Mendoza,Court 4,19867,Argentina
+11699428,Mendoza,Court 1 ANDINO,41914,Argentina
+11699429,Mendoza,Court 2,19872,Argentina
+11699430,Mendoza,Court 4,19867,Argentina
+11699431,Mendoza,Court 9,41909,Argentina
+11699432,Mendoza,Court 6,19869,Argentina
+11699433,Mendoza,Court 8,41915,Argentina
+11699434,Mendoza,Court 3,41916,Argentina
+11699435,Mendoza,Court 5,19870,Argentina
+11699436,Mendoza,Court 1,19871,Argentina
+11699437,Mendoza,Court 1,19871,Argentina
+11699438,Mendoza,Court 1,19871,Argentina
+11699439,Mendoza,Court 7,19868,Argentina
+11699440,Mendoza,Court 2,19872,Argentina
+11699441,Mendoza,Court 2,19872,Argentina
+11699442,Mendoza,Court 6,19869,Argentina
+11699443,Mendoza,Court 6,19869,Argentina
+11699444,Mendoza,Court 9,41909,Argentina
+11699445,Mendoza,Court 10,41910,Argentina
+11699446,Mendoza,Court 9,41909,Argentina
+11699447,Mendoza,Court 10,41910,Argentina
+11699448,Mendoza,Court 2,19872,Argentina
+11699449,Mendoza,Court 8,41915,Argentina
+11699450,Mendoza,Court 3,41916,Argentina
+11699451,Mendoza,Court 3,41916,Argentina
+11699452,Mendoza,Court 8,41915,Argentina
+11699453,Mendoza,Court 1,19871,Argentina
+11699454,Mendoza,Court 6,19869,Argentina
+11699455,Mendoza,Court 4,19867,Argentina
+11699456,Mendoza,Court 8,41915,Argentina
+11699457,Mendoza,Court 1,19871,Argentina
+11699458,Mendoza,Court 3,41916,Argentina
+11699459,Mendoza,Court 8,41915,Argentina
+11699460,Mendoza,Court 7,19868,Argentina
+11699461,Mendoza,Court 6,19869,Argentina
+11699462,Mendoza,Court 5,19870,Argentina
+11699463,Mendoza,Court 9,41909,Argentina
+11699464,Mendoza,Court 5,19870,Argentina
+11699465,Mendoza,Court 10,41910,Argentina
+11699466,Mendoza,Court 3,41916,Argentina
+11699809,Tiburon,Grossman-Kennedy Stadium,41918,USA
+11699812,Tiburon,Grossman-Kennedy Stadium,41918,USA
+11699813,Tiburon,Court 1,18492,USA
+11699814,Tiburon,Court 2,36580,USA
+11699815,Tiburon,Court 2,36580,USA
+11699816,Tiburon,Court 1,18492,USA
+11699817,Tiburon,Grossman-Kennedy Stadium,41918,USA
+11699818,Tiburon,Court 1,18492,USA
+11699819,Tiburon,Grossman-Kennedy Stadium,41918,USA
+11699820,Tiburon,Court 2,36580,USA
+11699821,Tiburon,Court 2,36580,USA
+11699822,Tiburon,Court 1,18492,USA
+11700010,Cairns,Court 3,18709,Australia
+11700011,Cairns,Court 11,18706,Australia
+11700012,Cairns,Court 11,18706,Australia
+11700013,Cairns,Court 8,36645,Australia
+11700014,Cairns,Court 2,18711,Australia
+11700015,Cairns,Court 1,18712,Australia
+11700016,Cairns,Court 4,18707,Australia
+11700017,Cairns,Court 2,18711,Australia
+11700018,Cairns,Court 10,18713,Australia
+11700019,Cairns,Court 11,18706,Australia
+11700020,Cairns,Court 8,36645,Australia
+11700021,Cairns,Court 10,18713,Australia
+11700022,Cairns,Court 11,18706,Australia
+11700023,Cairns,Court 2,18711,Australia
+11700024,Cairns,Court 2,18711,Australia
+11700025,Cairns,Court 12,18710,Australia
+11700026,Cairns,Court 10,18713,Australia
+11700027,Cairns,Court 11,18706,Australia
+11700028,Cairns,Court 12,18710,Australia
+11700029,Cairns,Court 8,36645,Australia
+11700030,Cairns,Court 3,18709,Australia
+11700031,Cairns,Court 8,36645,Australia
+11700032,Cairns,Court 10,18713,Australia
+11700033,Cairns,Court 1,18712,Australia
+11700034,Cairns,Court 12,18710,Australia
+11700035,Cairns,Court 3,18709,Australia
+11700036,Cairns,Court 1,18712,Australia
+11700037,Cairns,Court 1,18712,Australia
+11700038,Cairns,Court 4,18707,Australia
+11700039,Cairns,Court 3,18709,Australia
+11700040,Cairns,Court 12,18710,Australia
+11700041,Cairns,Court 4,18707,Australia
+11700066,Pazardzhik,Court 1,30759,Bulgaria
+11701137,Sharm El Sheikh,Court 1,28802,Egypt
+11701138,Sharm El Sheikh,Court 4,28799,Egypt
+11701139,Sharm El Sheikh,Court 3,17612,Egypt
+11701140,Sharm El Sheikh,Court 3,17612,Egypt
+11701141,Sharm El Sheikh,Court 3,17612,Egypt
+11701142,Sharm El Sheikh,Court 3,17612,Egypt
+11701143,Sharm El Sheikh,Court 4,28799,Egypt
+11701144,Sharm El Sheikh,Court 3,17612,Egypt
+11701145,Sharm El Sheikh,Court 1,28802,Egypt
+11701146,Sharm El Sheikh,Court 4,28799,Egypt
+11701147,Sharm El Sheikh,Court 1,28802,Egypt
+11701148,Sharm El Sheikh,Court 3,17612,Egypt
+11701149,Sharm El Sheikh,Court 4,28799,Egypt
+11701150,Sharm El Sheikh,Court 4,28799,Egypt
+11701151,Sharm El Sheikh,Court 1,28802,Egypt
+11701152,Sharm El Sheikh,Court 1,28802,Egypt
+11701154,Pazardzhik,Court 3,30758,Bulgaria
+11701155,Alicante,Central,41861,Spain
+11701233,Bad Waltersdorf,Court 3,32762,Austria
+11701265,Makinohara,COURT B,18784,Japan
+11701266,Makinohara,COURT C,18786,Japan
+11701267,Makinohara,COURT F,18787,Japan
+11701268,Makinohara,COURT F,18787,Japan
+11701269,Makinohara,COURT B,18784,Japan
+11701270,Makinohara,COURT C,18786,Japan
+11701271,Makinohara,COURT C,18786,Japan
+11701272,Makinohara,COURT B,18784,Japan
+11701273,Makinohara,COURT F,18787,Japan
+11701274,Makinohara,COURT A,18785,Japan
+11701275,Makinohara,COURT A,18785,Japan
+11701276,Makinohara,COURT B,18784,Japan
+11701277,Makinohara,COURT C,18786,Japan
+11701278,Makinohara,COURT A,18785,Japan
+11701279,Makinohara,COURT A,18785,Japan
+11701280,Makinohara,COURT F,18787,Japan
+11701281,Sharm El Sheikh,Court 5,33931,Egypt
+11701298,Alicante,Central,41861,Spain
+11701327,Shanghai,Show Court 3,23912,China
+11701328,Shanghai,Show Court 3,23912,China
+11701329,Mouilleron-Le-Captif,Court Annexe,19285,France
+11701330,Shanghai,Show Court 3,23912,China
+11701331,Shanghai,Show Court 3,23912,China
+11701333,Shanghai,Grandstand 2,41919,China
+11701334,Shanghai,Grandstand 2,41919,China
+11701335,Shanghai,Court 7,18384,China
+11701336,Shanghai,Court 4,18719,China
+11701337,Shanghai,Grandstand 2,41919,China
+11701338,Shanghai,Court 7,18384,China
+11701339,Shanghai,Court 4,18719,China
+11701340,Shanghai,Court 7,18384,China
+11701341,Shanghai,Court 6,18370,China
+11701342,Shanghai,Court 6,18370,China
+11701343,Shanghai,Court 7,18384,China
+11701344,Shanghai,Court 4,18719,China
+11701345,Shanghai,Court 7,18384,China
+11701346,Shanghai,Court 4,18719,China
+11701347,Shanghai,Court 6,18370,China
+11701348,Shanghai,Court 6,18370,China
+11701349,Shanghai,Stadium Court,18860,China
+11701350,Shanghai,Stadium Court,18860,China
+11701351,Shanghai,Stadium Court,18860,China
+11701352,Shanghai,Stadium Court,18860,China
+11701385,Mendoza,Court 6,19869,Argentina
+11701386,Mouilleron-Le-Captif,Court Central,19286,France
+11701444,Alicante,Pista 2,21044,Spain
+11701471,Lisbon,Estadio Cif,17209,Portugal
+11701472,Lisbon,Court Belem,17211,Portugal
+11701473,Lisbon,Court Lisboa,17210,Portugal
+11701486,Sibenik,Court 1,31889,Croatia
+11701487,Sibenik,Court 1,31889,Croatia
+11701490,Sibenik,Court 4,31893,Croatia
+11701491,Sibenik,Court 1,31889,Croatia
+11701492,Sibenik,Court 5,31890,Croatia
+11701493,Sibenik,Court 6,31892,Croatia
+11701494,Sibenik,Court 4,31893,Croatia
+11701495,Sibenik,Court 4,31893,Croatia
+11701496,Sibenik,Court 4,31893,Croatia
+11701497,Sibenik,Court 6,31892,Croatia
+11701499,Sibenik,Court 5,31890,Croatia
+11701509,Alicante,Pista 1,21045,Spain
+11701521,Pazardzhik,Court 5,39394,Bulgaria
+11701522,Pazardzhik,Court 4,30757,Bulgaria
+11701523,Pazardzhik,Court 1,30759,Bulgaria
+11701524,Pazardzhik,Court 3,30758,Bulgaria
+11701525,Pazardzhik,Court 1,30759,Bulgaria
+11701526,Pazardzhik,Court 3,30758,Bulgaria
+11701527,Pazardzhik,Court 1,30759,Bulgaria
+11701528,Pazardzhik,Court 5,39394,Bulgaria
+11701529,Pazardzhik,Court 2,30760,Bulgaria
+11701530,Pazardzhik,Court 5,39394,Bulgaria
+11701531,Pazardzhik,Court 4,30757,Bulgaria
+11701532,Pazardzhik,Court 1,30759,Bulgaria
+11701533,Pazardzhik,Court 3,30758,Bulgaria
+11701534,Mouilleron-Le-Captif,Court Annexe,19285,France
+11701535,Alicante,Pista 2,21044,Spain
+11701536,Reims,Court 1,36548,France
+11701537,Reims,Court 4,36549,France
+11701538,Reims,Court 1,36548,France
+11701539,Reims,Court Central,41907,France
+11701540,Reims,Court 1 - Europe,41921,France
+11701541,Reims,Court 1,36548,France
+11701542,Reims,Court Central,41907,France
+11701543,Reims,Court 4,36549,France
+11701544,Reims,Court 1 - Europe,41921,France
+11701555,Baza,Court 5,36538,Spain
+11701556,Baza,Court Occident (C),41905,Spain
+11701557,Baza,Court 4,36537,Spain
+11701558,Baza,Court Occident (C),41905,Spain
+11701559,Baza,Court 4,36537,Spain
+11701561,Lisbon,Court Lisboa,17210,Portugal
+11701562,Sibenik,Court 6,31892,Croatia
+11701563,Sibenik,Court 5,31890,Croatia
+11701565,Reims,Court 1,36548,France
+11701605,Mouilleron-Le-Captif,Court Central,19286,France
+11701606,Santa Margherita Di Pula,Court 7,34378,Italy
+11701607,Santa Margherita Di Pula,Court 4,34380,Italy
+11701608,Santa Margherita Di Pula,Court 3,34379,Italy
+11701609,Santa Margherita Di Pula,Court 2,34383,Italy
+11701610,Santa Margherita Di Pula,Court 8,34403,Italy
+11701611,Santa Margherita Di Pula,Court 3,34379,Italy
+11701612,Santa Margherita Di Pula,Court 6,34381,Italy
+11701613,Santa Margherita Di Pula,Court 8,34403,Italy
+11701614,Santa Margherita Di Pula,Court 3,34379,Italy
+11701615,Santa Margherita Di Pula,Court 2,34383,Italy
+11701616,Santa Margherita Di Pula,Court 4,34380,Italy
+11701617,Santa Margherita Di Pula,Court 2,34383,Italy
+11701626,Reims,Court Central,41907,France
+11701627,Reims,Court 4,36549,France
+11701631,Saint Eloi,Court 1,36553,France
+11701632,Saint Eloi,Court Central,36551,France
+11701633,Saint Eloi,Court Central,36551,France
+11701634,Saint Eloi,Court Central,36551,France
+11701635,Saint Eloi,Court 1,36553,France
+11701640,Lisbon,Court Belem,17211,Portugal
+11701643,Doha,Court 4,20505,Qatar
+11701645,Doha,Court 4,20505,Qatar
+11701646,Doha,Court 3,19978,Qatar
+11701648,Doha,Court 3,19978,Qatar
+11701651,Doha,Court 6,20418,Qatar
+11701653,Doha,Court 6,20418,Qatar
+11701655,Doha,Court 5,20401,Qatar
+11701656,Doha,Court 5,20401,Qatar
+11701661,Baza,Court Occident (C),41905,Spain
+11701662,Baza,Court Occident (C),41905,Spain
+11701666,Alicante,Pista 1,21045,Spain
+11701667,Mendoza,Court 5,19870,Argentina
+11701668,Campinas,Court Joao Lima,18610,Brazil
+11701680,Santa Margherita Di Pula,Court 6,34381,Italy
+11701681,Santa Margherita Di Pula,Court 7,34378,Italy
+11701682,Santa Margherita Di Pula,Court 5,34382,Italy
+11701683,Santa Margherita Di Pula,Court 5,34382,Italy
+11701684,Santa Margherita Di Pula,Court 1,34474,Italy
+11701689,Alicante,Central,41861,Spain
+11701697,Lisbon,Court 5,17212,Portugal
+11701698,Lisbon,Court 5,17212,Portugal
+11701699,Lisbon,Court 7,18585,Portugal
+11701700,Lisbon,Court 7,18585,Portugal
+11701701,Lisbon,Court 6,21002,Portugal
+11701702,Bad Waltersdorf,Court 4,32763,Austria
+11701703,Bad Waltersdorf,Court 1,32759,Austria
+11701704,Bad Waltersdorf,Court 6,32758,Austria
+11701705,Bad Waltersdorf,Court 2,32764,Austria
+11701706,Bad Waltersdorf,Court 4,32763,Austria
+11701707,Bad Waltersdorf,Court 1,32759,Austria
+11701708,Bad Waltersdorf,Court 6,32758,Austria
+11701709,Bad Waltersdorf,Court 5,32760,Austria
+11701710,Bad Waltersdorf,Court 2,32764,Austria
+11701711,Bad Waltersdorf,Court 3,32762,Austria
+11701712,Bad Waltersdorf,Court 1,32759,Austria
+11701713,Bad Waltersdorf,Court 5,32760,Austria
+11701714,Bad Waltersdorf,Court 2,32764,Austria
+11701715,Bad Waltersdorf,Court 3,32762,Austria
+11701716,Bad Waltersdorf,Court 5,32760,Austria
+11701717,Monastir,Court 8,24180,Tunisia
+11701718,Monastir,Court 5,23362,Tunisia
+11701719,Monastir,Court 4,23364,Tunisia
+11701720,Monastir,Court 8,24180,Tunisia
+11701721,Monastir,Court 7,23891,Tunisia
+11701722,Monastir,Court 3,23363,Tunisia
+11701723,Monastir,Court 8,24180,Tunisia
+11701724,Monastir,Court 2,23360,Tunisia
+11701725,Monastir,Court 3,23363,Tunisia
+11701726,Monastir,Court 4,23364,Tunisia
+11701727,Monastir,Court 7,23891,Tunisia
+11701728,Monastir,Court 1,23881,Tunisia
+11701729,Monastir,Court 6,23890,Tunisia
+11701730,Monastir,Court 2,23360,Tunisia
+11701731,Monastir,Court 1,23881,Tunisia
+11701732,Monastir,Center Court,23654,Tunisia
+11701733,Monastir,Court 6,23890,Tunisia
+11701734,Monastir,Court 6,23890,Tunisia
+11701735,Monastir,Court 7,23891,Tunisia
+11701736,Monastir,Court 2,23360,Tunisia
+11701737,Monastir,Court 5,23362,Tunisia
+11701738,Monastir,Center Court,23654,Tunisia
+11701739,Monastir,Court 8,24180,Tunisia
+11701740,Monastir,Court 3,23363,Tunisia
+11701741,Monastir,Court 6,23890,Tunisia
+11701742,Monastir,Court 1,23881,Tunisia
+11701743,Monastir,Court 4,23364,Tunisia
+11701744,Monastir,Court 7,23891,Tunisia
+11701745,Monastir,Court 5,23362,Tunisia
+11701746,Monastir,Center Court,23654,Tunisia
+11701747,Monastir,Court 5,23362,Tunisia
+11701748,Monastir,Court 4,23364,Tunisia
+11701749,Campinas,Court 4,18609,Brazil
+11701752,Campinas,Court 3,18608,Brazil
+11701761,Tiburon,Court 1,18492,USA
+11701779,Reims,Court 4,36549,France
+11701780,Zaragoza,Court 3,36545,Spain
+11701781,Zaragoza,Court 2,36542,Spain
+11701782,Reims,Court 1 - Europe,41921,France
+11701783,Zaragoza,Court 3,36545,Spain
+11701784,Zaragoza,Court 2,36542,Spain
+11701785,Reims,Court 1 - Europe,41921,France
+11701786,Zaragoza,Court 1,41902,Spain
+11701787,Zaragoza,Court 1,41902,Spain
+11701788,Reims,Court Central,41907,France
+11701839,Lisbon,Estadio Cif,17209,Portugal
+11701840,Mouilleron-Le-Captif,Court Central,19286,France
+11701841,Lisbon,Court 6,21002,Portugal
+11701842,Lisbon,Court 7,18585,Portugal
+11701843,Lisbon,Court 6,21002,Portugal
+11701877,Saint Eloi,Court 1,36553,France
+11701917,Sharm El Sheikh,Court 3,17612,Egypt
+11701918,Sharm El Sheikh,Court 4,28799,Egypt
+11701919,Sharm El Sheikh,Court 4,28799,Egypt
+11701920,Sharm El Sheikh,Court 5,33931,Egypt
+11701921,Sharm El Sheikh,Court 3,17612,Egypt
+11701922,Sharm El Sheikh,Court 3,17612,Egypt
+11701923,Sharm El Sheikh,Court 4,28799,Egypt
+11701924,Zaragoza,Court 2,36542,Spain
+11701925,Sharm El Sheikh,Court 5,33931,Egypt
+11701926,Sharm El Sheikh,Court 6,33930,Egypt
+11701927,Sharm El Sheikh,Court 5,33931,Egypt
+11701928,Sharm El Sheikh,Court 6,33930,Egypt
+11701929,Sharm El Sheikh,Court 3,17612,Egypt
+11701930,Sharm El Sheikh,Court 6,33930,Egypt
+11701931,Sharm El Sheikh,Court 4,28799,Egypt
+11701932,Sharm El Sheikh,Court 5,33931,Egypt
+11701933,Zaragoza,Court 1,41902,Spain
+11701934,Sharm El Sheikh,Court 6,33930,Egypt
+11702042,Mouilleron-Le-Captif,Court Annexe,19285,France
+11702214,Mendoza,Court 6,19869,Argentina
+11702216,Mendoza,Court 4,19867,Argentina
+11702217,Mendoza,Court 5,19870,Argentina
+11702218,Mendoza,Court 1,19871,Argentina
+11702220,Mendoza,Court 2,19872,Argentina
+11702221,Mendoza,Court 3,41916,Argentina
+11702222,Mendoza,Court 8,41915,Argentina
+11702224,Mendoza,Court 1,19871,Argentina
+11702225,Mendoza,Court 5,19870,Argentina
+11702230,Mendoza,Court 8,41915,Argentina
+11702232,Mendoza,Court 4,19867,Argentina
+11702238,Mendoza,Court 7,19868,Argentina
+11702241,Mendoza,Court 3,41916,Argentina
+11702242,Mendoza,Court 7,19868,Argentina
+11702243,Mendoza,Court 2,19872,Argentina
+11702244,Mendoza,Court 6,19869,Argentina
+11702248,N/A,Court 3,36105,
+11703221,Pazardzhik,Court 3,30758,Bulgaria
+11703236,Bad Waltersdorf,Court 6,32758,Austria
+11703242,Pazardzhik,Court 4,30757,Bulgaria
+11703331,Pazardzhik,Court 5,39394,Bulgaria
+11703442,Monastir,Center Court,23654,Tunisia
+11703443,Monastir,Court 2,23360,Tunisia
+11703444,Monastir,Court 5,23362,Tunisia
+11703445,Monastir,Court 3,23363,Tunisia
+11703470,Reims,Court Central,41907,France
+11703524,Monastir,Court 1,23881,Tunisia
+11703525,Pazardzhik,Court 5,39394,Bulgaria
